@@ -8,6 +8,8 @@
 
 <p align="center"> <samp>Hi, my name is Erick Anthony. I have a degree in informatics 2019 💻🔥  . I have been passionate about technologies from a very young age, focused on the use of good practices and good experiences. 
   
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/erick-desing/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/deku.code/) [<img src = "https://img.shields.io/badge/youtube-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.youtube.com/)
+  
 # :man_technologist: Knowledges
 
 ## Frontend
