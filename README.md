@@ -6,7 +6,7 @@
 <p align="center"><img width=50% src="https://netbramha.com/wp-content/uploads/2016/12/senior-front-end-developer-openings.gif"></p>
 
 
-<p align="center"> <samp>Hi, My name is Piyush Bajaj. I am a Computer Science B.Tech college student. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
+<p align="center"> <samp>Hi, my name is Erick Anthony. I have a degree in informatics 2019. I have been passionate about technologies from a very young age, focused on the use of good practices and good experiences. 
   
 # :man_technologist: Knowledges
 
